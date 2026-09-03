@@ -32,7 +32,7 @@ The repository is structured to separate administrative curriculum from chronolo
 ---
 
 ## Mevcut MADES Üyeleri İçin
-Pratik yapmak amacıyla kodunuzu otomatik jüriye göndermek için gizli Codeforces grubuna katılmanız gerekmektedir.
+Pratik yapmak amacıyla kodunuzu automatic judge'ye göndermek için Codeforces grubuna katılmanız gerekmektedir.
 1. Bir Codeforces hesabı oluşturun.
 2. [MADES Competitive Programming Club Group](https://codeforces.com/group/rtlj92tYLY) sayfasına gidin.
 3. Pratik yapmak istediğiniz yarışmayı ve soruyu seçin.
