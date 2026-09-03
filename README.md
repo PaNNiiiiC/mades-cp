@@ -12,7 +12,7 @@ The repository is structured to separate administrative curriculum from chronolo
 
 ## Problem Index
 
-### 2026_04 Programming Challenge
+### 2026_05 Programming Challenge
 * **Algorithmus and the Final Project** `[Original]` – Greedy Algorithm, Sorting
 * **Hidden Treasure** `[Original]` – Grid Iteration, Manhattan Distance
 * **To The Moon!** `[Original]` – Prefix Sum Arrays
@@ -20,7 +20,7 @@ The repository is structured to separate administrative curriculum from chronolo
 * **Broken Keyboard** `[Original]` – String Simulation
 * **Gas Money** `[Codeforces Mashup]` – Integer Math, Rounding
 
-### 2026_03 Spring Qualifications
+### 2026_03 Spring Qualifications Practice Contest
 * **Adjacent Letters** `[Codeforces Mashup]` – String Parsing, Parity
 * **Eating Candies** `[Codeforces Mashup]` – Two Pointers
 * **IQ-Test** `[Codeforces Mashup]` – 2D Grid Brute Force
@@ -28,3 +28,11 @@ The repository is structured to separate administrative curriculum from chronolo
 * **Presents** `[Codeforces Mashup]` – Array Manipulation
 
 *Note: All solutions include tested implementations in C++, Java, Python 3, and C#.*
+
+---
+
+## Mevcut MADES Üyeleri İçin
+Pratik yapmak amacıyla kodunuzu otomatik jüriye göndermek için gizli Codeforces grubuna katılmanız gerekmektedir.
+1. Bir Codeforces hesabı oluşturun.
+2. [MADES Competitive Programming Club Group](https://codeforces.com/group/rtlj92tYLY) sayfasına gidin.
+3. Pratik yapmak istediğiniz yarışmayı ve soruyu seçin.
