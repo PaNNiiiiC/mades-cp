@@ -1,6 +1,6 @@
 # MADES Competitive Programming Contests
 
-This repository contains the competitive programming problem sets, editorials, and reference solutions deployed for the Marmara University Developer Society (MADES) beginning in Mar 2026. 
+This repository contains problem sets, editorials, and reference solutions deployed for the Marmara University Developer Society (MADES) beginning in Mar 2026. 
 
 ## Repository Architecture
 
